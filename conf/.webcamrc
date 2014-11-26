@@ -1,0 +1,11 @@
+[grab]
+device = /dev/video0
+text = "webcam %Y-%m-%d %H:%M:%S"
+archive = /home/constantin/Pictures/Webcam/costi/%Y-%m-%d-snap-%H-%M-%S.jpg
+wait = 5
+delay = 10
+width = 1280
+height = 960
+trigger = 140 
+quality = 90
+
